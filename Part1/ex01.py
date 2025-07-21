@@ -1,1 +1,2 @@
-#This is your first exercise file. 
+print("i love black people")
+
