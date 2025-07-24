@@ -16,4 +16,4 @@ This repository will be the starter repository for you as you work on your indiv
    'python [your filename]'
 
 - Example:
-  - 'python ex01.py'
+  - 'python ex0

@@ -1,6 +1,14 @@
 # Dictionary containing names and ages
 age = {'Hans': 24, 'Prag': 23, 'Bunyod': 18}
 
+
+body count = {"cheng tae": 69, "chelian": 0.5, "hitler": 99}
+
+print("original dictionary", age)
+
+print("body count of cheng tae", body count ["cheng tae"])
+
+
 # TODO:
 # 1. Print the whole dictionary
 # 2. Print the age of 'Hans'
